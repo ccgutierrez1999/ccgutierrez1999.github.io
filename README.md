@@ -3,7 +3,7 @@
 ----
 Hello
 # _Education_
-*CMIS
-*Payap University
+>*CMIS
+>*Payap University
 # ccgutierrez1999.github.io
 
