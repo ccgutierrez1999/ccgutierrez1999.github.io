@@ -11,7 +11,7 @@
 * John Cabot University - Rome, Italy 2019-2021
 * Political science
 * Basis for my political knowledge.
-----
+
 # _Experience_ 
 * Prince Royal College - Chiang Mai, Thailand
 * February to July 2026
@@ -35,7 +35,7 @@
 * Reported directly to families
 * Supported students with daily homework and reading 
 * Planned activities according to students interests and parent requests 
-----
+
 # _Other Experience_  
 * Master of Ceremonies - ECTI DAMT & NCON
 * February 2026
@@ -46,7 +46,7 @@
 * Research Methods - Fall 2025
 * Culture and Englishes - Spring 2023
 * 2nd Place 
-----
+
 # _Skills_
 * Planning engaging, developmentally appropriate, and culturally responsive educational activities
 * Organized and resourceful
@@ -55,7 +55,7 @@
 * Strong collaborative and communication skills 
 * Research, analysis, and synthesis 
 * Cultural awareness & sensitivity
-----
+
 # _Languages_
 * English - Fluent
 * Italian - Conversational
