@@ -11,20 +11,20 @@ Hello
 * John Cabot University - Rome, Italy 2019-2021
 * Political science
 * Basis for my political knowledge.
-# 
+
 # _Experience_ 
 * Prince Royal College - Chiang Mai, Thailand
 * February to July 2026
 * Classroom observations
 * Observed first grade through twelfth grade English as second language classes. 
-# 
+
 * Ban Khunjae School - Chiang Mai, Thailand
 * January 2026
 * Planned bilingual activities and order of events for students ages 4-15
 * Purchased and organized learning materials 
 * Briefed and directed university students attending the event
 * Supervised and aided in activities throughout the event 
-# 
+
 * After School Tutoring - Dara Academy
 * 2022-2024
 * Reported directly to families
@@ -35,7 +35,7 @@ Hello
 * Reported directly to families
 * Supported students with daily homework and reading 
 * Planned activities according to students interests and parent requests 
-# 
+
 # _Other Experience_  
 * Master of Ceremonies - ECTI DAMT & NCON
 * February 2026
@@ -45,7 +45,7 @@ Hello
 * Research Methods - Fall 2025
 * Culture and Englishes - Spring 2023
 * 2nd Place 
-# 
+
 # _Skills_
 * Planning engaging, developmentally appropriate, and culturally responsive educational activities
 * Organized and resourceful
@@ -54,7 +54,7 @@ Hello
 * Strong collaborative and communication skills 
 * Research, analysis, and synthesis 
 * Cultural awareness & sensitivity
-# 
+
 # _Languages_
 * English - Fluent
 * Italian - Conversational
