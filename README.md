@@ -7,6 +7,7 @@
 * First Class Honors 2025
 * First Class Honors 2026
 * Expected Graduation: May 2027
+#
 * John Cabot University - Rome, Italy 2019-2021
 * Political science
 * Basis for my political knowledge.
@@ -38,6 +39,7 @@
 # _Other Experience_  
 * Master of Ceremonies - ECTI DAMT & NCON
 * February 2026
+#
 * Presenter - English Communications Department Seminar Payap University
 * Independent Study in English Communication - Spring 2026
 * 3rd Place
