@@ -1,7 +1,6 @@
 # _Cristina Contreras Gutierrez_
 > _Payap University Student_
 ----
-Hello
 # _Education_
 * Payap University - Chiang Mai, Thailand 2023-2027
 * Bachelor of Arts in English Communications
