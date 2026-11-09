@@ -3,14 +3,14 @@
 ----
 Hello
 # _Education_
-# Payap University - Chiang Mai, Thailand 2023-2027
-# Bachelor of Arts in English Communications
-# First Class Honors 2025
-# First Class Honors 2026
-# Expected Graduation: May 2027
-# John Cabot University - Rome, Italy 2019-2021
-# Political science
-# Basis for my political knowledge.
+* Payap University - Chiang Mai, Thailand 2023-2027
+* Bachelor of Arts in English Communications
+* First Class Honors 2025
+* First Class Honors 2026
+* Expected Graduation: May 2027
+* John Cabot University - Rome, Italy 2019-2021
+* Political science
+* Basis for my political knowledge.
 # 
 # _Experience_ 
 # Prince Royal College - Chiang Mai, Thailand
