@@ -2,40 +2,45 @@
 > _Payap University Student_
 ----
 # _Education_
-> Payap University - Chiang Mai, Thailand 2023-2027
+> _Payap University - Chiang Mai, Thailand 2023-2027_
 * Bachelor of Arts in English Communications
 * First Class Honors 2025
 * First Class Honors 2026
 * Expected Graduation: May 2027
-> John Cabot University - Rome, Italy 2019-2021
+
+> _John Cabot University - Rome, Italy 2019-2021_
 * Political science
 * Basis for my political knowledge.
 
 # _Experience_ 
-> Prince Royal College - Chiang Mai, Thailand
+> _Prince Royal College - Chiang Mai, Thailand_
 * February to July 2026
 * Classroom observations
 * Observed first grade through twelfth grade English as second language classes.
-> Ban Khunjae School - Chiang Mai, Thailand
+
+> _Ban Khunjae School - Chiang Mai, Thailand_
 * January 2026
 * Planned bilingual activities and order of events for students ages 4-15
 * Purchased and organized learning materials 
 * Briefed and directed university students attending the event
 * Supervised and aided in activities throughout the event
-> After School Tutoring - Dara Academy
+
+> _After School Tutoring - Dara Academy_
 * 2022-2024
 * Reported directly to families
 * Supported students in English vocabulary development through play, stories, writing and art.
-> After School Tutoring - Chiang Mai International School
+
+> _After School Tutoring - Chiang Mai International School_
 * 2015-2018
 * Reported directly to families
 * Supported students with daily homework and reading 
 * Planned activities according to students interests and parent requests 
 
 # _Other Experience_  
-> Master of Ceremonies - ECTI DAMT & NCON
+> _Master of Ceremonies - ECTI DAMT & NCON_
 * February 2026
-> Presenter - English Communications Department Seminar Payap University
+
+> _Presenter - English Communications Department Seminar Payap University_
 * Independent Study in English Communication - Spring 2026
 * 3rd Place
 * Research Methods - Fall 2025
