@@ -62,6 +62,6 @@
 * Spanish - Developing
 * Thai - Developing
 
-
-# ccgutierrez1999.github.io
-
+# Contact info
+> cristinalibrat@gmail.com
+> 
