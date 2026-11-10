@@ -57,6 +57,6 @@
 * Spanish - Developing
 * Thai - Developing
 
-# Contact info
+# _Contact info_
 > cristinalibrat@gmail.com
 > 
